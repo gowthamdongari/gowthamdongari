@@ -3,7 +3,7 @@
 <!--- 🌱 I’m currently working on :sweat_drops: web development...--->
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me  
-- :speech_balloon: Linkedin[(https://www.linkedin.com/in/gowtham-dongari)]...
+- :speech_balloon: Linkedin(https://www.linkedin.com/in/gowtham-dongari) ...
 
 <!---
 gowthamdongari/gowthamdongari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

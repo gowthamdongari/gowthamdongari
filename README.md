@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @gowthamdongari
-- 👀 I’m interested in full stack development <! & Machine Learning --->
+- 👀 I’m interested in full stack development
+ <!--- & Machine Learning --->
 - 🌱  I’m currently working on  web development :sweat_drops:
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me  

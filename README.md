@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @gowthamdongari
+![ViewCount](https://views.whatilearened.today/views/github/gowthamdongari/README.MD.svg?cache=remove)
+
+-  Hi there 👋, I’m @gowthamdongari
 - 👀 I’m interested in full stack development
  <!--- & Machine Learning --->
 - 🌱  I’m currently working on  web development :sweat_drops:

@@ -1,16 +1,29 @@
-![ViewCount](https://views.whatilearened.today/views/github/gowthamdongari/README.MD.svg?cache=remove)
+![ViewCount](https://views.whatilearened.today/views/github/gowthamdongari/README.MD.svg?cache=remove) [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+<!--
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fjalla+One&weight=600&size=30&pause=1000&color=1D18F7&background=B9ADFF00&width=530&height=60&lines=Hi+there+%F0%9F%91%8B%2C+I%E2%80%99m+Gowtham+Dongari" alt="Typing SVG" /></a>
 </p>
 
 -  I’m Passionate about full stack development
  <!--- & Machine Learning --->
--   I’m currently working on  web development 
+ 
+<!--   I’m currently working on  web development 
 <!--- 💞️ I’m looking to collaborate on ...--->
-- 📫 How to reach me  
+<!-- 📫 How to reach me  
+ -->
 
+<h1 align="center"><b>Hi , I'm Gowtham Dongari </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=E0734&size=30&center=true&vCenter=true&width=600&height=100&lines=Software+Development+Engineer..&hearts;++;Full+Stack+Engineer,;Backend+Engineer,;Computer+Science,;Active+Learner/+Problem+Solver,;Go+Getter+Attitude..<3"></a>
+</p>
+ 
+<br>
+
+
+
+	
+**About me**
 
 
 ### 📫  Languages Used

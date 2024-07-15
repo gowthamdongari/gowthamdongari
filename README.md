@@ -1,4 +1,4 @@
-<p align="center"><a href="https://gowtham-dongari.vercel.app/"><img width="80%" alt="Hello, I'm Gowtham. I do open source!" src="./assets/Gowtham-name-banner.png" /></a></p>
+<p align="center"><a href="https://gowtham-dongari.vercel.app/"><img height="120px" width="60%" alt="Hello, I'm Gowtham. I do open source!" src="./assets/Gowtham-name-banner.png" /></a></p>
 
 <br />
 <p align="center">

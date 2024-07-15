@@ -1,8 +1,8 @@
-<p align="center"><a href="https://gowtham-dongari.vercel.app/"><img height="120px" width="60%" alt="Hello, I'm Gowtham. I do open source!" src="./assets/Gowtham-name-banner.png" /></a></p>
+<p align="center"><a href="https://gowtham-dongari.vercel.app/"><img height="" width="60%" alt="Hello, I'm Gowtham. I do open source!" src="./assets/Gowtham-name-banner.png" /></a></p>
 
 <br />
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=E0734&size=30&center=true&vCenter=true&width=600&height=100&lines=Software+Development+Engineer..&hearts;++;Full+Stack+Engineer,;Open+Source,;Computer+Science,;Active+Learner,;Problem+Solver,;Go+Getter+Attitude..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=E0734&size=25&center=true&vCenter=true&width=600&height=70&lines=Software+Development+Engineer..&hearts;++;Full+Stack+Engineer,;Open+Source,;Computer+Science,;Active+Learner,;Problem+Solver,;Go+Getter+Attitude..<3"></a>
 </p>
 
 I am a passionate Software Developer from India, currently thriving in the USA.<br/>  With over two years of experience, I excel in both front-end and back-end development. <br/> I actively contribute to open-source projects, collaborating globally. Always eager to learn and grow.
